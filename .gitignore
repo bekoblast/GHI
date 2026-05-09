@@ -1,0 +1,27 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Claude Code
+.claude/
+
+# Temporary / build artifacts
+profile.txt
+node_modules/
+dist/
+build/
+
+# Source / archive files (already integrated into the site under assets/)
+/GAZEIRA PROFILE 2024-4.pdf
+/WhatsApp Video 2025-12-29 at 12.05.28.mp4
+/founder.png
+/logo-1.png
+/logo-2.png
+/logo-3.png
+
+# Local environment
+.env
+.env.local
