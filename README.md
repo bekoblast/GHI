@@ -67,7 +67,6 @@ Photographs sourced from [Pexels](https://www.pexels.com) under the [Pexels Lice
 
 ## Contact
 
-- **Web** — <https://www.gezira.group>
-- **Email** — <Info@gezira.group>
-- **HQ** — Khartoum, Sudan
-- **Regional office** — Dubai, UAE
+- **Web** — <>
+- **Email** — beko1986@gmail.com
+- **Location** — Saudi Arabia
